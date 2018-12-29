@@ -26,3 +26,7 @@ https://velog.io/@marcus/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-
 2018-12-27
 시저 암호
 https://velog.io/@marcus/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8-hdjq6b9q8i
+
+2018-12-29
+짝수 홀수
+https://velog.io/@marcus/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A7%9D%EC%88%98%EC%99%80-%ED%99%80%EC%88%98-3ajq9cdtbl
